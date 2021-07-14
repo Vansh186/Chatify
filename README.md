@@ -4,7 +4,6 @@
 
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
-### https://chatify-49.web.app/
 
 <div align="center">
   <img alt="Demo" src="./Assets/chatify.png" />
